@@ -25,9 +25,9 @@ pip install langchain streamlit streamlit_chat chromadb fastembed pypdf langchai
 ```
 
 ## Run the Frontend
-
+```
 streamlit run app.py
-
+```
 
 
 
