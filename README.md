@@ -21,7 +21,7 @@ git clone https://github.com/Sydney-Informatics-Hub/LLM-local-RAG/
 cd LLM-local-RAG
 conda create -n localrag python=3.11 pip
 conda activate localrag
-pip install langchain streamlit streamlit_chat chromadb fastembed pypdf langchain_community
+pip install langchain streamlit streamlit_chat chromadb fastembed pypdf langchain_community cryptography
 ```
 
 ## Run the Frontend
